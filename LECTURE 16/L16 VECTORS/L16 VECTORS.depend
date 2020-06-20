@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584265088 source:c:\users\deepv\desktop\l16 vectors\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
+1584265134 source:c:\users\deepv\desktop\codes\lecture 16\l16 vectors\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
