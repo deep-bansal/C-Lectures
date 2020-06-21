@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582113112 source:c:\users\deepv\desktop\randomised quick sort\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
